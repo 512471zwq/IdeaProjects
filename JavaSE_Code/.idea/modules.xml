@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentManager/StudentManager.iml" filepath="$PROJECT_DIR$/StudentManager/StudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_demo/idea_demo.iml" filepath="$PROJECT_DIR$/idea_demo/idea_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_test/idea_test.iml" filepath="$PROJECT_DIR$/idea_test/idea_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArgs/myArgs.iml" filepath="$PROJECT_DIR$/myArgs/myArgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArray/myArray.iml" filepath="$PROJECT_DIR$/myArray/myArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCollection/myCollection.iml" filepath="$PROJECT_DIR$/myCollection/myCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myExtends/myExtends.iml" filepath="$PROJECT_DIR$/myExtends/myExtends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myInnerClass/myInnerClass.iml" filepath="$PROJECT_DIR$/myInnerClass/myInnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myInterface/myInterface.iml" filepath="$PROJECT_DIR$/myInterface/myInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../黑马20/01-就业课(2.1)-JavaSE基础/day08-常用API/代码/myString/myString.iml" filepath="$PROJECT_DIR$/../../黑马20/01-就业课(2.1)-JavaSE基础/day08-常用API/代码/myString/myString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myTuoTai/myTuoTai.iml" filepath="$PROJECT_DIR$/myTuoTai/myTuoTai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myimport/myimport.iml" filepath="$PROJECT_DIR$/myimport/myimport.iml" />
+    </modules>
+  </component>
+</project>
